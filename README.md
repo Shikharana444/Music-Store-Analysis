@@ -1,7 +1,37 @@
-**SQL PROJECT- MUSIC STORE ANALYSIS**
- **Question**
- 
-**Set 1**
+**SQL_Project_Music_Store_Analysis**
+
+**Description**
+
+Developed and executed a series of SQL queries to perform comprehensive data analysis on a music store database, focusing on revenue metrics, customer insights, and business intelligence. Utilized PostgreSQL to extract meaningful patterns and trends from the data.
+
+**Key Responsibilities**
+
+Data Extraction and Cleaning
+
+Extracted data from multiple tables, including employee, invoice, customer, track, and genre.
+Performed data cleaning and preprocessing to ensure accuracy and consistency of the dataset.
+Revenue Analysis:
+
+Identified the top three highest invoice values to understand significant sales transactions.
+Determined the city generating the highest revenue to plan promotional events.
+Analyzed customer spending patterns to identify the best customers based on total expenditure.
+Customer and Employee Insights:
+
+Found the senior-most employee based on job title to facilitate management decisions.
+Identified the most frequent customers and their preferences for targeted marketing campaigns.
+Genre and Artist Analysis:
+
+Filtered customers who preferred rock music to tailor marketing strategies.
+Listed top artists contributing to the rock genre to optimize playlist recommendations.
+Technologies Used:
+
+Postgre SQL
+PgAdmin4
+
+
+**SQL PROJECT- Question**
+
+ **Set 1**
 1. Who is the senior most employee based on job title?
 2. Which countries have the most Invoices?
 3. What are top 3 values of total invoice?
